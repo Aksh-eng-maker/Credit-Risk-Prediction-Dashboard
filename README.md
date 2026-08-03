@@ -20,7 +20,7 @@ Visualization: Power BI (DAX, Interactive Dashboarding)
 ## Key Findings & Impact
 Model Accuracy: Successfully identified high-risk borrower clusters representing 15% of total loan volume.
 
-Operational Efficiency: Automated the risk categorization process, reducing manual review time for "Low Risk" applications by an estimated 40%.
+Operational Efficiency: Automated the risk categorization process, reducing manual review time for "Low Risk" applications.
 
 ## Repository Structure
 /Data: Raw and processed datasets (CSV/Excel).
